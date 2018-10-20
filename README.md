@@ -2,11 +2,11 @@
 
 > UtChinese team member database project 
 
-##Prerequitsite
+## Prerequitsite
 
-Nodejs 8.12.0 https://nodejs.org/ 
+>Nodejs 8.12.0 https://nodejs.org/ 
 
-微信开发者工具 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+>微信开发者工具 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 
 
 ## Build Setup
